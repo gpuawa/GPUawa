@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**gpuawa/GPUawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**我是 GPUawa ，来自江苏。**
 
-Here are some ideas to get you started:
+### 📫 联系方式
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **QQ：2547828133**
+- **邮箱：2547828133@qq.com**
+
+### 🤔 关于我
+
+正在创作 **[iClass](https://github.com/GPUawa/iClass)** 项目，一个简单的 Tauri 电子课表程序。
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GPUawa&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPUawa&layout=compact)
+
